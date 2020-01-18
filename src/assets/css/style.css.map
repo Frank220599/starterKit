@@ -1,0 +1,1 @@
+{"version":3,"sources":["imports.styl","imports.css"],"names":[],"mappings":"AAMA;EACE,WAAM;ACLR","file":"style.css","sourcesContent":["//@require \"./additional/*\"\r\n//@require \"./components/*\"\r\n//@require \"./partials/*\"\r\n//@require \"./pages/*\"\r\n//@require \"./responsive\"\r\n\r\nh1\r\n  color #dc0\r\n\r\n\r\n","h1 {\n  color: #dc0;\n}\n"]}
